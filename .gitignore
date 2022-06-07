@@ -1,0 +1,15 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# sls-next
+build
+
+#next
+.next
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+!_app.js
