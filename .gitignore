@@ -3,6 +3,9 @@
 *.d.ts
 node_modules
 
+# stuff
+.DS_Store 
+
 # sls-next
 build
 
